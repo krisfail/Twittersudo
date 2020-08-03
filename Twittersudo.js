@@ -7,6 +7,7 @@
 // @author       Kris57 aka yuuki76
 // @match        https://twitter.com/*
 // @grant        none
+// @licence      CC-BY-SA-4.0; https://creativecommons.org/licenses/by-sa/4.0/
 // ==/UserScript==
 (
     window.onload = function() {
